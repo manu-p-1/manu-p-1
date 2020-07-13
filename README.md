@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif" alt="Michael Scott Gif" width="65%"/>
+</p>
+
 ### Hi there, I'm Manu 👋
 
 - 🔭 I’m currently working on ... really awesome projects
