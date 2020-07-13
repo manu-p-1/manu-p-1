@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif" alt="Michael Scott Gif" width="65%"/>
+  <img src="static/images/giphy.gif" alt="Michael Scott Gif" width="65%"/>
+  <!-- Original Source: https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif -->
 </p>
 
 ### Hi there, I'm Manu 👋
