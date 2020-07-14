@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/manu-p-1/manu-p-1/blob/master/static/images/giphy.gif" alt="Michael Scott Gif" width="65%"/>
+  <img src="https://github.com/manu-p-1/manu-p-1/blob/master/static/images/happy_mscott.gif" alt="Michael Scott Gif" width="65%"/>
   <!-- Original Source: https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif -->
 </p>
 
