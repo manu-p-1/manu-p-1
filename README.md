@@ -12,5 +12,5 @@
 - 🌱 I’m currently learning ... Software Engineering and Management skills from experienced industry professionals
 - 📫 How to reach me ... Check my LinkedIn 🙂
 - 💬 Favorite Quote ... "Courage is resistance to fear, mastery of fear -- not absence of fear." ~ Mark Twain
-- ⚡ Fun fact ... I'm a aviation geek and credit card nerd, so ask me about credit cards, commercial aviation, flight simulation, geography, and travelling! ✈️
+- ⚡ Fun fact ... I'm a aviation geek ✈️ and credit card nerd 💳, so ask me about credit cards, commercial aviation, flight simulation, geography, and travelling!
 
