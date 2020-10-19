@@ -8,7 +8,7 @@
 
 ### Hi there, I'm Manu 👋
 
-- 🔭 I’m currently working on ... really awesome projects
+- 🔭 I’m currently working on ... Really awesome projects! I enjoy collaborating with others to brainstorm creative ideas and solutions
 - 🌱 I’m currently learning ... Software Engineering, Analysis, and Management skills from experienced industry professionals
 - 📫 How to reach me ... Through my LinkedIn
 - 💬 Favorite Quote ... "Courage is resistance to fear, mastery of fear -- not absence of fear." ~ Mark Twain
