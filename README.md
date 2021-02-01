@@ -6,7 +6,7 @@
   <!-- Original Source: https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif -->
 </p>
 
-### Hey there, I'm Manu 👋
+### Hey there, I'm Manu. 👋 Glad you found this page and Michael's reaction above shows my sentiment!
 
 - 🔭 I’m currently working on ... Really awesome projects! I enjoy collaborating with others to brainstorm creative ideas and solutions while seizing opportunities that help me do so
 - 🌱 I’m currently learning ... Software Engineering, Analysis, and Management skills from experienced industry professionals
