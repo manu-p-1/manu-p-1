@@ -1,9 +1,7 @@
-
 <p align="center">
-  <a href="https://github.com/manu-p-1/">
-    <img src="https://github.com/manu-p-1/manu-p-1/blob/master/static/images/happy_mscott.gif" alt="Michael Scott Gif" width="65%"/>
-  </a>
-  <!-- Original Source: https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif -->
+    <img src="https://github.com/manu-p-1/manu-p-1/blob/master/static/images/happy_mscott.gif" alt="Michael Scott Gif" width="405" height="220"/>
+    <!-- Original Source: https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif -->
+    <img src="https://github-readme-stats.vercel.app/api?username=manu-p-1&show_icons=true&theme=tokyonight&count_private=true&custom_title=Manu's%20GitHub%20Stats" alt="Github Stats" width="405" height="220"/> 
 </p>
 
 ### Hey there, I'm Manu. 👋 Glad you found this page!
