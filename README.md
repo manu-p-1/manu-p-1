@@ -1,8 +1,8 @@
 <p align="center">
   <p float="left">
-    <img src="https://github.com/manu-p-1/manu-p-1/blob/master/static/images/happy_mscott.gif" alt="Michael Scott Gif" width="100"/>
+    <img src="https://github.com/manu-p-1/manu-p-1/blob/master/static/images/happy_mscott.gif" alt="Michael Scott Gif" width="500"/>
     <!-- Original Source: https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif -->
-    <img src="https://github-readme-stats.vercel.app/api?username=manu-p-1&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" width="100"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=manu-p-1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="Github Stats" width="500"/> 
   </p>
 </p>
 
