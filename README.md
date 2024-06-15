@@ -15,8 +15,6 @@
 - Favorite Quote ... *"Courage is resistance to fear, mastery of fear — not absence of fear."* ~ Mark Twain
 - Fun fact ... I'm a aviation geek ✈️ and credit card nerd 💳, so ask me about credit cards, commercial aviation, flight simulation, geography, and travelling!
 
-My friend Sam Yuen has collaborated with me on some great projects. Check out his [profile](https://github.com/ssyuen)! 
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
