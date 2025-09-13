@@ -10,10 +10,7 @@
 
 ### Hey there, I'm Manu. 👋 Glad you found this page!
 
-- I’m currently working on ... Really awesome projects! I enjoy collaborating with others to brainstorm creative ideas and solutions while seizing opportunities that help me do so
-- I’m currently learning ... software engineering, data analysis, and management skills from experienced industry professionals
-- Favorite Quote ... *"Courage is resistance to fear, mastery of fear — not absence of fear."* ~ Mark Twain
-- Fun fact ... I'm a aviation geek ✈️ and credit card nerd 💳, so ask me about credit cards, commercial aviation, flight simulation, geography, and travelling!
+Visit <a href="https://manupuduvalli.com/" target="_blank">my site</a>. Glad to see you around!
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
