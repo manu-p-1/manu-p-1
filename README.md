@@ -2,19 +2,34 @@
     <a href="https://github.com/manu-p-1/">
         <img src="https://github.com/manu-p-1/manu-p-1/blob/master/static/images/happy_mscott.gif" alt="Michael Scott Gif" width="405" height="230"/>
     </a>
-    <!-- Original Source: https://media.giphy.com/media/xMGh0bajSyNdC/giphy.gif -->
-    <a href="https://github.com/manu-p-1/">
-        <img src="https://github-readme-stats.vercel.app/api?username=manu-p-1&show_icons=true&title_color=0A95FF&bg_color=333333&icon_color=0A95FF&text_color=FFFFFF&line_height=37&count_private=true&custom_title=My%20GitHub%20Stats" alt="Github Stats" width="405"/>
-    </a>
 </p>
 
-### Hey there, I'm Manu. 👋 Glad you found this page!
+### Hey there, I'm Manu. Glad you found this page.
 
 Visit <a href="https://manupuduvalli.com/" target="_blank">my site</a>. Glad to see you around!
+![](https://komarev.com/ghpvc/?username=manu-p-1\&color=blue)
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+---
+
+### Current Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,python,powershell" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=emacs" />
 </p>
+
+Angular • TypeScript • RxJS • C# • .NET • Azure/Azure OpenAI • Python • PowerShell • RxJs • SQL Server • Databricks • Emacs
+
+---
+
+### Previous Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,bootstrap,flask,django,jquery" />
+</p>
+
+Java EE & RxJava • Spring • Bootstrap • Flask • Django • JQuery
