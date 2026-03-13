@@ -29,7 +29,7 @@ Angular • TypeScript • RxJS • C# • .NET • Azure/Azure OpenAI • Pytho
 ### Previous Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,bootstrap,flask,django,jquery" />
+<img src="https://skillicons.dev/icons?i=java,spring,bootstrap,flask,django,jquery,mysql" />
 </p>
 
-Java EE & RxJava • Spring • Bootstrap • Flask • Django • JQuery
+Java EE & RxJava • Spring • Bootstrap • Flask • Django • JQuery • MySQL
