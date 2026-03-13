@@ -7,7 +7,6 @@
 ### Hey there, I'm Manu. Glad you found this page.
 
 Visit <a href="https://manupuduvalli.com/" target="_blank">my site</a>. Glad to see you around!
-![](https://komarev.com/ghpvc/?username=manu-p-1\&color=blue)
 
 ---
 
