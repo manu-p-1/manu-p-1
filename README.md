@@ -21,7 +21,7 @@ Visit <a href="https://manupuduvalli.com/" target="_blank">my site</a>. Glad to 
 <img src="https://skillicons.dev/icons?i=emacs" />
 </p>
 
-Angular • TypeScript • RxJS • C# • .NET • Azure/Azure OpenAI • Python • PowerShell • RxJs • SQL Server • Databricks • Emacs
+Angular • TypeScript • RxJS • C# • .NET • Azure + Microsoft Foundry • Python • PowerShell • RxJs • SQL Server • Databricks • Emacs
 
 ---
 
